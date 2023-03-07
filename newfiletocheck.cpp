@@ -8,5 +8,6 @@ int main()
     cin.tie(0);
     cout << "New file is removed and written again to check git diff" << endl;
     cout << "New line added" << endl;
+    cout << "New line 2 added" << endl;
     return 0;
 }
