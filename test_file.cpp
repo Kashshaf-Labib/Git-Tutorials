@@ -9,9 +9,7 @@ int main()
     int count = 0;
     string s;
     cin >> s;
-    int n;
-    cin >> n;
-    for (int i = 0, j = n - 1; i < n / 2; i++, j--)
+    for (int i = 0, j = s.size() - 1; i < s.size() / 2; i++, j--)
     {
         char temp;
         temp = s[i];
