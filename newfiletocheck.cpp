@@ -9,5 +9,7 @@ int main()
     cout << "New file is removed and written again to check git diff" << endl;
     cout << "New line added" << endl;
     cout << "New line 2 added" << endl;
+    cout << "New line 3 added" << endl;
+    cout << "New line 4 added" << endl;
     return 0;
 }
