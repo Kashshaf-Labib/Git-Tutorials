@@ -11,5 +11,6 @@ int main()
     cout << "New line 2 added" << endl;
     cout << "New line 3 added" << endl;
     cout << "Skipping staging area and directly committing the new changes" << endl;
+    
     return 0;
 }
