@@ -6,7 +6,7 @@ int main()
 {
     ios_base ::sync_with_stdio(0);
     cin.tie(0);
-    cout << "New file" << endl;
-
+    cout << "New file is removed and written again to check git diff" << endl;
+    cout << "New line added" << endl;
     return 0;
 }
